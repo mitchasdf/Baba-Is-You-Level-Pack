@@ -1,0 +1,11 @@
+[general]
+firstlevel=2level
+start=4level
+author=Baba
+themecount=2
+name=BabaOrigin - only 1 zone
+
+[levels]
+rolling_levelid=20
+levelid=21
+
