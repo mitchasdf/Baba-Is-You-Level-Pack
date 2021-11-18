@@ -1,7 +1,7 @@
 # Baba-Is-You-Level-Pack
 An open-source level pack for baba is you.
 
-Though it has 8 zones placed in the overworld map with an intended theme for each, only the first zone is finished at the moment.
+Though it has 8 zones placed in the overworld map with an intended theme for each, only the first zone is finished at the moment. That is; 7 levels plus a prelude level.
 
 After downloading the baba_has_journey folder, copy it into your Worlds folder. Example:
 C:\Program Files (x86)\Steam\steamapps\common\Baba Is You\Data\Worlds\ (here)
