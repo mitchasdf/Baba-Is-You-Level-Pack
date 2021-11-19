@@ -5,7 +5,9 @@ Though it has 8 zones placed in the overworld map with an intended theme for eac
 That is; 7 levels plus a prelude level.
 
 After downloading the repository (by clicking the code button and then download zip), copy the "baba_has_journey" folder into your Worlds folder. Example:
+
 C:\Program Files (x86)\Steam\steamapps\common\Baba Is You\Data\Worlds\baba_has_journey
+
 The level pack is called "BabaOrigin - only 1 zone" in your level select in-game.
 
 Make sure to reboot the game once the folder is copied in. Or to be even safer, just make sure the game is closed when you copy it in.
